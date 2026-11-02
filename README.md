@@ -48,6 +48,14 @@ flowchart LR
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="33%"><img src="images/store_spin.jpg" alt="Store art: spin"></td>
+    <td width="33%"><img src="images/store_power.jpg" alt="Store art: power"></td>
+    <td width="33%"><img src="images/store_million.jpg" alt="Store art: a million metres"></td>
+  </tr>
+</table>
+
 ## ✨ What's inside
 
 | | |
